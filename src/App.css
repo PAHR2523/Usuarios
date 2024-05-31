@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.user-table {
+  margin-top: 20px;
+}
+
+.user-table table {
+  border-collapse: collapse;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.user-table th, .user-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.user-table th {
+  background-color: #4CAF50;
+  color: white;
+}
+
